@@ -1,11 +1,8 @@
 {
- "status": "UNVERIFIED",
- "country": "DE",
- "law_reference": "Wohngeldgesetz (WoGG)",
- "official_sources": [
-  "https://bundesregierung.de"
- ],
- "verified_year": "2026",
- "generated_by": "LEGION-FORGE",
- "date": "2026-09-27"
+  "slug": "wohngeld-rechner-de",
+  "title": "Wohngeld housing benefit calculator",
+  "status": "UNVERIFIED_SCAFFOLD",
+  "country": "DE",
+  "sector": "social_policy",
+  "official_source": "bundesregierung.de"
 }
